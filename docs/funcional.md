@@ -4,7 +4,7 @@
 Apresentar a PensaReg como plataforma de inteligência regulatória para empresas de saúde, comunicando confiança, tecnologia e clareza sem coletar dados pessoais.
 
 ## Escopo
-Página institucional pública, responsiva e de página única. Não inclui login, cadastro, área restrita, formulários, chatbot, telefone, redes sociais ou integrações externas.
+Página institucional pública, responsiva e de página única. Não inclui login, cadastro, área restrita, formulários, chatbot ou telefone. O Instagram institucional é disponibilizado no rodapé como link externo.
 
 ## Arquitetura da informação
 1. **Início:** proposta de valor e representação do produto.
@@ -12,12 +12,12 @@ Página institucional pública, responsiva e de página única. Não inclui logi
 3. **Soluções:** Diário Oficial, filas de análise, legislação, Dicol, agenda regulatória e produtos/pós-registro.
 4. **Como funciona:** monitorar, organizar, analisar e transformar.
 5. **Diferenciais:** IA especializada, experiência prática, visão integrada e foco.
-6. **Rodapé:** navegação e e-mail institucional.
+6. **Rodapé:** navegação, e-mail e Instagram institucionais.
 
 ## Requisitos atendidos
 - HTML semântico e conteúdo em português brasileiro.
 - Navegação por âncoras, menu móvel e indicação da seção atual.
 - Layout responsivo para celular, tablet e desktop.
 - Animações discretas com respeito a redução de movimento.
-- Contato exclusivamente por e-mail.
+- Contato por e-mail e acesso ao Instagram institucional.
 - Nenhuma coleta de dados ou cookie na versão atual.

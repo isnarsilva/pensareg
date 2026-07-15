@@ -13,4 +13,4 @@ Abra `index.html` em um navegador moderno ou sirva esta pasta por HTTP estático
 - [Guia de componentes](docs/componentes.md)
 - [Guia de manutenção](docs/manutencao.md)
 
-A versão atual não coleta dados pessoais e apresenta o e-mail institucional como único canal de contato.
+A versão atual não coleta dados pessoais e apresenta e-mail e Instagram como canais institucionais.
