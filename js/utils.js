@@ -1,0 +1,1 @@
+window.PensaReg={select:(selector,scope=document)=>scope.querySelector(selector),selectAll:(selector,scope=document)=>[...scope.querySelectorAll(selector)],reducedMotion:()=>window.matchMedia("(prefers-reduced-motion: reduce)").matches};
